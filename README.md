@@ -3,5 +3,5 @@
 
 -input photos are cat.jpg and dog.jpg<br>
 -main code is in hybridimage.m<br>
--mlx and pdf files is just for showing the results<br>
+-mlx and pdf files are just for showing the results<br>
 
